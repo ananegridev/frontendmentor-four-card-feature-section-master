@@ -14,7 +14,7 @@ Your users should:
 
 ### Links 🖱️
 
-- Solution URL: [Click Here](https://solution-anywtf-four-card-feature-section-master.netlify.app/)
+- Solution URL: [Github Page](https://ananegridev.github.io/frontendmentor-four-card-feature-section-master/)
 
 ## My process 📝
 
